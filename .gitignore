@@ -1,0 +1,26 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above combination will ignore all files without extension ###
+
+*.pyc
+*.p
+*.pkl 
+events.*
+*.data-00000-of-00001
+*.gz
+*.mat
+*.zip
+*.jpg
+*.txt
+*.sidx
+*.npz
+*.zip
+*.pyc
+*.npy
