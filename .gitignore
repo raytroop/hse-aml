@@ -25,3 +25,4 @@ events.*
 *.pyc
 *.npy
 *.tgz
+*.pickle
