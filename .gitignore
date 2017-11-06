@@ -26,3 +26,8 @@ events.*
 *.npy
 *.tgz
 *.pickle
+*.index
+*.meta
+*.data-00000-of-00001
+*.csv
+*.h5
